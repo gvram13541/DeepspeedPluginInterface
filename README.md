@@ -38,7 +38,9 @@ The implementation details of each file are as follows:
 - **plugin_loader.cpp**: C++ file implementing the plugin loader functionality.
 - **plugin_loader.h**: Header file declaring the plugin loader class.
 
-Sure, here are all the files where `/home/yathin` is present, along with explicit instructions to replace it with the actual path:
+
+ 
+ here are all the files where `/home/yathin` is present replace it with the actual path:
 
 
 ## Setup
